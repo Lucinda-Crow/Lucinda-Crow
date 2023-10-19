@@ -1,5 +1,10 @@
 - 👋 Hi, I’m Lucinda-Crow
-- 🌱 
+- 🌱 17 anos
+- ✨ estudante do 2° ano do novo ensino médio
+- 
+- #COBAIA DO GOVERNO DO PARANÁ
+- 
+- 
 
 
 <!---
