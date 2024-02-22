@@ -7,7 +7,7 @@
 - #COMPLETAMENTE LOST IN THE PLAY 
 
 <div id="header" align="center">
-  <img https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif?cid=790b7611ccbkqdittsy3i1f4ftbuu34ezjvc658rxfelkdrz&ep=v1_stickers_search&rid=giphy.gif&ct=s "/>
+  <img src= "https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif?cid=790b7611ccbkqdittsy3i1f4ftbuu34ezjvc658rxfelkdrz&ep=v1_stickers_search&rid=giphy.gif&ct=s" widht="100%"/>
 </div>
 
 
