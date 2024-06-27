@@ -35,17 +35,20 @@
  <img src="https://raining-starss.neocities.org/thebread%20(5).gif" width="110" height="70"/>
   <img src="https://raining-starss.neocities.org/blog%20(4).gif" width="110" height="70"/>
   <img src="https://raining-starss.neocities.org/s2%20(6).gif" width="110" height="70"/>
-  <img src="" width="110" height="70"/>
  <img src="https://niconiconova.neocities.org/999999.gif" width="110" height="70"/>
  <img src="https://plasticdino.neocities.org/blinkie/iloveglitter.gif" width="110" height="70"/>
  <img src="https://i.postimg.cc/grbV6hNM/blinkies-Cafe-St.gif" width="110" height="70"/>
  <img src="https://plasticdino.neocities.org/blinkie/minedcraft.gif" width="110" height="70"/>
- 
- <img src="" width="110" height="70"/>
- <img src="" width="110" height="70"/>
- <img src="" width="110" height="70"/>
- <img src="" width="110" height="70"/>
- <img src="" width="110" height="70"/>
+  <img src="https://raining-starss.neocities.org/garfpenis%20(7).png" width="110" height="70"/>
+ <img src="https://raining-starss.neocities.org/dau0txn-75af8827-03a6-414b-97f6-0c030442042e.gif" width="110" height="70"/>
+ <img src="https://raining-starss.neocities.org/boot%20(9).gif" width="110" height="70"/>
+ <img src="https://external-media.spacehey.net/media/slZyBch8pqWfOmlNxTdVkjTTe6PS8U1IxLVby-1L-cCY=/https://freaky-fangz.neocities.org/stamps/d2qn4w7-4ac1ebfa-4905-4aea-82fd-362a9a506343.gif" width="110" height="70"/>
+ <img src="https://raining-starss.neocities.org/pastel%20(10).gif" width="110" height="70"/>
+ <img src="https://raining-starss.neocities.org/plugplug%20(2).gif" width="110" height="70"/>
+ <img src="https://raining-starss.neocities.org/gittyimages%20(5).gif" width="110" height="70"/>
+ <img src="https://raining-starss.neocities.org/col%20(2).gif" width="110" height="70"/>
+ <img src="https://raining-starss.neocities.org/thebread%20(4).gif" width="110" height="70"/>
+ <img src="https://raining-starss.neocities.org/gittyimages%20(6).gif" width="110" height="70"/>
  <img src="" width="110" height="70"/>
 </div>
 
