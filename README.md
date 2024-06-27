@@ -49,8 +49,11 @@
  <img src="https://raining-starss.neocities.org/col%20(2).gif" width="110" height="70"/>
  <img src="https://raining-starss.neocities.org/thebread%20(4).gif" width="110" height="70"/>
  <img src="https://raining-starss.neocities.org/gittyimages%20(6).gif" width="110" height="70"/>
+ <img src="https://raining-starss.neocities.org/goodieblink%20(22).gif" width="110" height="70"/>
+  <img src="https://plasticdino.neocities.org/blinkie/https-toyhou-se-Cho.gif" width="110" height="70"/>
  <img src="" width="110" height="70"/>
-</div>
+  <img src="" width="110" height="70"/>
+</div> 
 
 
 
