@@ -58,6 +58,12 @@
  <img src="https://buttonwall.neocities.org/2006.gif"/>
  <img src="https://buttonwall.neocities.org/love-home.gif"/>
  <img src="https://i.postimg.cc/grbV6hNM/blinkies-Cafe-St.gif"/>
+ <img src="https://multiverse.plus/user/worldofzack/posts/stamps/1d1d03ce.gif"/>
+ <img src="https://multiverse.plus/user/worldofzack/posts/stamps/00-24.png"/>
+ <img src="https://multiverse.plus/user/worldofzack/posts/stamps/949b37e7.png"/>
+ <img src="https://multiverse.plus/user/worldofzack/posts/stamps/63a67dc1b9a.gif"/>
+ <img src="https://multiverse.plus/user/worldofzack/posts/stamps/5925d439.png"/>
+ <img src="https://multiverse.plus/user/worldofzack/posts/stamps/tumblr_ps6m9ioo3o1xzybrpo4_100.gif"/>
 </div> 
 
 
