@@ -50,9 +50,14 @@
  <img src="https://raining-starss.neocities.org/thebread%20(4).gif" width="110" height="70"/>
  <img src="https://raining-starss.neocities.org/gittyimages%20(6).gif" width="110" height="70"/>
  <img src="https://raining-starss.neocities.org/goodieblink%20(22).gif" width="110" height="70"/>
-  <img src="https://plasticdino.neocities.org/blinkie/https-toyhou-se-Cho.gif" width="110" height="70"/>
- <img src="" width="110" height="70"/>
   <img src="" width="110" height="70"/>
+ <img src="https://buttonwall.neocities.org/p4-noodle.png" width="110" height="70"/>
+  <img src="" width="110" height="70"/>
+ <img src="https://cyber.dabamos.de/88x31/Sega-Elite.gif"/>
+ <img src="https://buttonwall.neocities.org/mikufan.png"/>
+ <img src="https://buttonwall.neocities.org/2006.gif"/>
+ <img src="https://buttonwall.neocities.org/love-home.gif"/>
+ <img src="https://i.postimg.cc/grbV6hNM/blinkies-Cafe-St.gif"/>
 </div> 
 
 
