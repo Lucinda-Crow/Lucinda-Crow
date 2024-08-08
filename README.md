@@ -31,7 +31,9 @@
 <div id="header" align="center">
   <img src= "https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif?cid=790b7611ccbkqdittsy3i1f4ftbuu34ezjvc658rxfelkdrz&ep=v1_stickers_search&rid=giphy.gif&ct=s" widht="100%"/>
 </div>
+<div class="tenor-gif-embed" data-postid="17680324" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/fafuke-sasuke-okamari-no-suzuki-dark-otaku-fan-art-gif-17680324">Fafuke Sasuke Sticker</a>from <a href="https://tenor.com/search/fafuke-stickers">Fafuke Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <div>
+ 
  <img src="https://raining-starss.neocities.org/thebread%20(5).gif" width="110" height="70"/>
   <img src="https://raining-starss.neocities.org/blog%20(4).gif" width="110" height="70"/>
   <img src="https://raining-starss.neocities.org/s2%20(6).gif" width="110" height="70"/>
@@ -64,7 +66,21 @@
  <img src="https://multiverse.plus/user/worldofzack/posts/stamps/63a67dc1b9a.gif"/>
  <img src="https://multiverse.plus/user/worldofzack/posts/stamps/5925d439.png"/>
  <img src="https://multiverse.plus/user/worldofzack/posts/stamps/tumblr_ps6m9ioo3o1xzybrpo4_100.gif"/>
-
+ <img src="https://media.tenor.com/JmA6fyxDNe4AAAAM/blinkie-blinkies.gif"/>
+<img src="https://media.tenor.com/DSewm04PTeEAAAAM/tbh-creature-tbh.gif"/>
+<img src="https://media.tenor.com/dssJi0fdouAAAAAM/hatsune-miku-vocaloid.gif"/>
+<img src=""/>
+<img src=""/>
+ <img src=""/>
+<img src=""/>
+<img src=""/>
+<img src=""/>
+<img src=""/>
+ <img src=""/>
+<img src=""/>
+<img src=""/>
+<img src=""/>
+<img src=""/>
  
 </div> 
 
