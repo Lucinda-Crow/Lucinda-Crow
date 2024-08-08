@@ -30,9 +30,9 @@
 
 <div id="header" align="center">
   <img src= "https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif?cid=790b7611ccbkqdittsy3i1f4ftbuu34ezjvc658rxfelkdrz&ep=v1_stickers_search&rid=giphy.gif&ct=s" widht="100%"/>
+  <img src="https://media.tenor.com/NZNqf4t9urAAAAAi/fafuke-sasuke.gif"/>
 </div>
-<div class="tenor-gif-embed" data-postid="17680324" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/fafuke-sasuke-okamari-no-suzuki-dark-otaku-fan-art-gif-17680324">Fafuke Sasuke Sticker</a>from <a href="https://tenor.com/search/fafuke-stickers">Fafuke Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-<div>
+
  
  <img src="https://raining-starss.neocities.org/thebread%20(5).gif" width="110" height="70"/>
   <img src="https://raining-starss.neocities.org/blog%20(4).gif" width="110" height="70"/>
