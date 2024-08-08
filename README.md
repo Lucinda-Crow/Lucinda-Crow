@@ -30,10 +30,8 @@
 
 <div id="header" align="center">
   <img src= "https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif?cid=790b7611ccbkqdittsy3i1f4ftbuu34ezjvc658rxfelkdrz&ep=v1_stickers_search&rid=giphy.gif&ct=s" widht="100%"/>
-  <img src="https://media.tenor.com/NZNqf4t9urAAAAAi/fafuke-sasuke.gif"/>
+  <img src="https://media.tenor.com/NZNqf4t9urAAAAAi/fafuke-sasuke.gif" width="110" height="70"/>
 </div>
-
- 
  <img src="https://raining-starss.neocities.org/thebread%20(5).gif" width="110" height="70"/>
   <img src="https://raining-starss.neocities.org/blog%20(4).gif" width="110" height="70"/>
   <img src="https://raining-starss.neocities.org/s2%20(6).gif" width="110" height="70"/>
