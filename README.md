@@ -23,14 +23,26 @@
 <br>
  
 
+<style>
+main:before {
+width: 100%;
+height: 300px;
+display: block;
+content: "";
+background-image: url('https://media1.tenor.com/m/dLraXW_4T6QAAAAC/bgt.gif');
+background-position: center center;
+background-size: cover;
+}
+@media only screen and (max-width: 600px) {
+main:before{
+height: 200px;
+}
+}
+</style>
 
 
 
-
-
-<div id="header" align="center">
-  <img src= "https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif?cid=790b7611ccbkqdittsy3i1f4ftbuu34ezjvc658rxfelkdrz&ep=v1_stickers_search&rid=giphy.gif&ct=s" widht="100%"/>
-  <img src="https://media.tenor.com/NZNqf4t9urAAAAAi/fafuke-sasuke.gif" width="110" height="70"/>
+  <img src="https://media.tenor.com/NZNqf4t9urAAAAAi/fafuke-sasuke.gif" width="100%"/>
 </div>
  <img src="https://raining-starss.neocities.org/thebread%20(5).gif" width="110" height="70"/>
   <img src="https://raining-starss.neocities.org/blog%20(4).gif" width="110" height="70"/>
@@ -50,7 +62,6 @@
  <img src="https://raining-starss.neocities.org/thebread%20(4).gif" width="110" height="70"/>
  <img src="https://raining-starss.neocities.org/gittyimages%20(6).gif" width="110" height="70"/>
  <img src="https://raining-starss.neocities.org/goodieblink%20(22).gif" width="110" height="70"/>
-  <img src="" width="110" height="70"/>
  <img src="https://buttonwall.neocities.org/p4-noodle.png" width="110" height="70"/>
   <img src="https://media.tenor.com/GJa5u62scwMAAAAi/blinkies-blinkie.gif"/>
  <img src="https://cyber.dabamos.de/88x31/Sega-Elite.gif"/>
