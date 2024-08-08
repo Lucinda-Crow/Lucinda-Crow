@@ -52,7 +52,7 @@
  <img src="https://raining-starss.neocities.org/goodieblink%20(22).gif" width="110" height="70"/>
   <img src="" width="110" height="70"/>
  <img src="https://buttonwall.neocities.org/p4-noodle.png" width="110" height="70"/>
-  <img src="" width="110" height="70"/>
+  <img src="https://media.tenor.com/GJa5u62scwMAAAAi/blinkies-blinkie.gif" width="110" height="70"/>
  <img src="https://cyber.dabamos.de/88x31/Sega-Elite.gif"/>
  <img src="https://buttonwall.neocities.org/mikufan.png"/>
  <img src="https://buttonwall.neocities.org/2006.gif"/>
@@ -64,6 +64,8 @@
  <img src="https://multiverse.plus/user/worldofzack/posts/stamps/63a67dc1b9a.gif"/>
  <img src="https://multiverse.plus/user/worldofzack/posts/stamps/5925d439.png"/>
  <img src="https://multiverse.plus/user/worldofzack/posts/stamps/tumblr_ps6m9ioo3o1xzybrpo4_100.gif"/>
+
+ 
 </div> 
 
 
