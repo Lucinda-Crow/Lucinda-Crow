@@ -21,13 +21,10 @@
 </div>
  
 <br>
+
+
  
-
-
-
-
-
-  <img src="https://media.tenor.com/NZNqf4t9urAAAAAi/fafuke-sasuke.gif" width="10%"/>
+<img src="https://media.tenor.com/NZNqf4t9urAAAAAi/fafuke-sasuke.gif" width="10%"/>
 </div>
  <img src="https://raining-starss.neocities.org/thebread%20(5).gif" width="110" height="70"/>
   <img src="https://raining-starss.neocities.org/blog%20(4).gif" width="110" height="70"/>
@@ -39,7 +36,6 @@
   <img src="https://raining-starss.neocities.org/garfpenis%20(7).png" width="110" height="70"/>
  <img src="https://raining-starss.neocities.org/dau0txn-75af8827-03a6-414b-97f6-0c030442042e.gif" width="110" height="70"/>
  <img src="https://raining-starss.neocities.org/boot%20(9).gif" width="110" height="70"/>
- <img src="https://external-media.spacehey.net/media/slZyBch8pqWfOmlNxTdVkjTTe6PS8U1IxLVby-1L-cCY=/https://freaky-fangz.neocities.org/stamps/d2qn4w7-4ac1ebfa-4905-4aea-82fd-362a9a506343.gif" width="110" height="70"/>
  <img src="https://raining-starss.neocities.org/pastel%20(10).gif" width="110" height="70"/>
  <img src="https://raining-starss.neocities.org/plugplug%20(2).gif" width="110" height="70"/>
  <img src="https://raining-starss.neocities.org/gittyimages%20(5).gif" width="110" height="70"/>
@@ -63,8 +59,8 @@
  <img src="https://media.tenor.com/JmA6fyxDNe4AAAAM/blinkie-blinkies.gif"/>
 <img src="https://media.tenor.com/DSewm04PTeEAAAAM/tbh-creature-tbh.gif"/>
 <img src="https://media.tenor.com/dssJi0fdouAAAAAM/hatsune-miku-vocaloid.gif"/>
- 
-</div> 
+ <img src="https://external-media.spacehey.net/media/slZyBch8pqWfOmlNxTdVkjTTe6PS8U1IxLVby-1L-cCY=/https://freaky-fangz.neocities.org/stamps/d2qn4w7-4ac1ebfa-4905-4aea-82fd-362a9a506343.gif" width="110" height="70"/>
+ </div> 
 
 
 
