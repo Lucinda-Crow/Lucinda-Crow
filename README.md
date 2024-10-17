@@ -24,7 +24,6 @@
 
 
  
-<img src="https://media.tenor.com/NZNqf4t9urAAAAAi/fafuke-sasuke.gif" width="10%"/>
 </div>
  <img src="https://raining-starss.neocities.org/thebread%20(5).gif" width="110" height="70"/>
   <img src="https://raining-starss.neocities.org/blog%20(4).gif" width="110" height="70"/>
